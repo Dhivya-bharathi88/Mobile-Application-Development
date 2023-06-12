@@ -334,6 +334,18 @@ Registeration Number : 212221220010
 
 
 ## OUTPUT
+![Screenshot (218)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/d5ddfa38-e292-4113-b4e3-ac143edd9c91)
+          
+          
+![Screenshot (220)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/0478df32-9d63-4e98-8308-0770efa18ac2)
+          
+          
+![ex6 1](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/1c89158f-32a7-4a0a-8bd4-ce955c70753d)
+          
+          
+![ex6 2](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/749f9d7d-7112-42ea-8818-d18c0a1ae67e)
+          
+
 
 
 
