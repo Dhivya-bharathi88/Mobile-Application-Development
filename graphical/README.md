@@ -133,6 +133,13 @@ Registeration Number : 212221220010
 
 
 ## OUTPUT
+![Screenshot (265)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/8228a768-e239-47b7-91e8-71da74c54b89)
+            
+            
+![Screenshot (266)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/00acc192-7c7b-4834-96b6-999b4e377c32)
+            
+            
+![ex 12](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/73edbb6f-dc72-4a2c-bcda-88499e6295bc)
 
 
 
