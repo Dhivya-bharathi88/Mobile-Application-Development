@@ -168,6 +168,23 @@ Developed by: DHIVYA BHARATHI.K
 Registeration Number : 212221220010
 
 ## OUTPUT
+![Screenshot (261)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/8e908688-4c73-410c-ae91-6aed6c99de00)
+          
+          
+![Screenshot (262)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/74fe9f76-642c-4e02-8c93-aceae487459e)
+          
+          
+![Screenshot (264)](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/e47aa851-1d28-4406-b684-a503756dc463)
+          
+          
+![ex10 1](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/3cc8bab5-0684-4869-8375-0aa683af86a0)
+          
+          
+![ex10 2](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/5aa01490-9283-43e8-a08b-4746b32a5579)
+          
+          
+![ex10 3](https://github.com/Dhivya-bharathi88/Mobile-Application-Development/assets/128019999/5e1bfddb-4b8c-4be0-969f-afa658f2cef3)
+
 
 
 
